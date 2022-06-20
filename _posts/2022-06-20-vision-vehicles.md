@@ -34,7 +34,7 @@ can not see any vehicles because the only movement that the background subtracti
 
 In the left there is what background subtraction perceive, while on the right there is the final result
 
-                                  | 
+                                  
 
 :-------------------------:|:-------------------------:
 <img width =400 src="/assets/img/opencv_day_bs.gif" /> | <img align="right" width=400 src="/assets/img/opencv_day.gif" />
