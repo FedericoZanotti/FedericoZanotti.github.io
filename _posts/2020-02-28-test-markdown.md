@@ -8,7 +8,8 @@ tags: [test]
 comments: true
 ---
 
-#  Can we fool liers? [![](logo_github.png | width=50)](https://github.com/FedericoZanotti/CBSD-project.git)
+#  Can we fool liers? <img src="https://github.com/favicon.ico" width="48">
+(https://github.com/FedericoZanotti/CBSD-project.git)
 
 **Source Code**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FedericoZanotti/FEdericoZanotti.github.io/blob/master/project_filesCBSD_Project_IADQ.ipynb)
 
