@@ -25,10 +25,14 @@ The worst performance was obtained by the OpenCV method, especially in the night
 
 # Results
 
+## OpenCV
 First I report the experiments using OpenCV, and in day time the results are pretty good with some mistakes, while in night time it's the opposite: the algorithm
 can not see any vehicles because the only movement that the background subtraction algorithm intercept is given by the light of the cars.
 
-<img align="left" src="/assets/img/opencv_day.gif" /><img align="right" src="/assets/img/Hnet-image (4).gif" />
+### DayTime
+
+In the left there is what background subtraction perceive, while on the right there is the final result
+<img width =700 align="left" src="/assets/img/opencv_night.gif" /><img width=700 align="right" src="/assets/img/opencv_day.gif" />
 
 
 
