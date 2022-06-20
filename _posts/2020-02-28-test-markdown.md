@@ -22,7 +22,7 @@ The project was really challenging and to be honest our work did not resolve thi
 We made also a web-app that caracterizes a possible future implementation, in which a psyclogist load the answers of the questionnaire and the algorithm gives the dishonest response and their honest reconstruction.
 
 <a href="test.csv" download>Click to Download</a>
-
+[Download Minion](https://octodex.github.com/images/minion.png "download")
 **Little Demo**:  [![CBSD-project](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/federicozanotti/cbsd-project/main/app.py)
 
 
