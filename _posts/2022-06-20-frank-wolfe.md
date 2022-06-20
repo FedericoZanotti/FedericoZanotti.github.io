@@ -39,11 +39,11 @@ We tested the performance of these methods on the task of adversarial attack on 
 such that the Deep Neural Network makes an incorrect classification. Following [Can Stochastic Zeroth-Order Frank-Wolfe Method Converge Faster for Non-Convex Problems?](http://proceedings.mlr.press/v119/gao20b/gao20b.pdf)
 we tested the algorithms with this loss function:
 
-```math
-\min_{||\delta||_{\infty} \leq s} {\frac{1}{n} \sum_{i=1}^n \max {\{f_{y_i} (\textbf{x}_i + \delta) - \max_{j \neq y_i} {f_j(\textbf{x}_i + \delta)}}, 0\}}
-```
+
+$$\min_{||\delta||\_{\infty} \leq s} {\frac{1}{n} \sum_{i=1}^n \max {\{f_{y_i} (\textbf{x}\_i + \delta) - \max_{j \neq y_i} {f_j(\textbf{x}\_i + \delta)}}, 0\}}$$
 
 
+ 
 ## Results
 
 Our results proved that the FZCGS algorithm has the highest convergence rate, while the ZCGS is the worst in terms of convergence. In the the github-repo there is the source
