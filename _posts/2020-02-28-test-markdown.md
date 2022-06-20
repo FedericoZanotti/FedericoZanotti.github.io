@@ -24,7 +24,7 @@ We made also a web-app that caracterizes a possible future implementation, in wh
 
 Here I provide a **Little Demo**:  [![CBSD-project](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/federicozanotti/cbsd-project/main/app.py) and a <a id="raw-url" href="https://raw.githubusercontent.com/FedericoZanotti/FedericoZanotti.github.io/master/_posts/test.csv">Test File</a>
 
-Here i reported the final results (discussed deeplt in th colab notebook).
+Here i reported the final results (discussed deeply in the colab notebook).
 
 **Classification**
 | Method  | Train Score (%)| Test Score (%)|
@@ -43,4 +43,4 @@ Here i reported the final results (discussed deeplt in th colab notebook).
 | RNN  |  34.7 | 1.0832 |
 | LSTM | 34.2  | 1.0960 |
 | BruteForce | 45 | 1.0087 |
-| One Class SVM_{withBruteForce} | 59.6 | 0.75 |
+| One Class SVM (withBruteForce) | 59.6 | 0.75 |
