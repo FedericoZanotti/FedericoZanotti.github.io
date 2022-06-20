@@ -2,13 +2,15 @@
 layout: post
 title: Vehicle counting, tracking and classification in highway roads with Day and Night environment
 subtitle: Deep Learning models to count and track vehicles
+thumbnail-img: /assets/img/vision_thumb.gif
+
 gh-repo: FedericoZanotti/Vision-project
 gh-badge: [star, fork, follow]
 tags: [Vision]
 comments: true
 ---
 
-# Vehicle counting, tracking and classification in highway roads with Day and Night environment  [<img src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Logo.png" width=50/>](https://github.com/FedericoZanotti/Vision-Project.git)
+# Tracking and Classification  [<img src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Logo.png" width=50/>](https://github.com/FedericoZanotti/Vision-Project.git)
 
 In this project made for the Vision and Cognitive Services course my colleague and I mainly focused on vehicle counting, detection and tracking in video in day and night time.
 For this project we decided first to build different systems that are able to detect and track vehicles in order to count them and compare the results.
