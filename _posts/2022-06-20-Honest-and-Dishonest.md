@@ -30,7 +30,7 @@ Here i reported the final results (discussed deeply in the colab notebook).
 
 | Method  | Train Score (%)| Test Score (%)|
 
-| ------------- | ------------- |------------|
+| :-----: | :------------: | :-----------: |
 | Logistic Regression  |86   | 89  |
 | Decision Tree  | 84   | 81  |
 | Random Forest  | 98 | 87  |
