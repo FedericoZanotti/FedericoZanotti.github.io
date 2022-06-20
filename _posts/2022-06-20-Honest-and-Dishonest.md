@@ -30,9 +30,9 @@ Here i reported the final results (discussed deeply in the colab notebook).
 ### **Classification** 
 
 
-<img src="/assets/img/path.jpg" />
+<img src="/assets/img/class.PNG" />
 
 
 ### **Reconstruction**
 
-<img width=600 src="https://github.com/FedericoZanotti/FedericoZanotti.github.io/blob/master/_posts/recon.PNG" />
+<img src="/assets/img/loss.PNG" />
