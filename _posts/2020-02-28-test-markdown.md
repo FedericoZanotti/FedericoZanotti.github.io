@@ -8,7 +8,7 @@ tags: [test]
 comments: true
 ---
 
-#  Can we fool liers? <a href="[https://www.qries.com/](https://github.com/FedericoZanotti/CBSD-project.git)">
+#  Can we fool liers? <a href="https://github.com/FedericoZanotti/CBSD-project.git">
          <img alt="Qries" src="https://www.qries.com/images/banner_logo.png"
               width=150" height="70"> </a>
 
