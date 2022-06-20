@@ -70,7 +70,7 @@ With this dataset we trained the weights for our model starting from pre-trained
 In order to read the license plate, we used PyTesseract on the bounding box of the license plate predicted by Yolo, with some basic steps of preprocessing like blur filtering and threshold and to further improve performance we try to find the contours of the characters and perform on each one of these OCR.
 
 :-------------------------:|:-------------------------:
-<img width =400 src="/assets/img/targhe.PNG" /> | <img width=400 src="/assets/img/ocr.gif" />
+<img width =100 src="/assets/img/targhe.PNG" /> | <img width=400 src="/assets/img/ocr.gif" />
 
 
 
