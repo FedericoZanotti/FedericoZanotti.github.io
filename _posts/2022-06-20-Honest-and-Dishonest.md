@@ -35,4 +35,4 @@ Here i reported the final results (discussed deeply in the colab notebook).
 
 ### **Reconstruction**
 
-<img src="/assets/img/loss.PNG" />
+<img src="/assets/img/recon.PNG" />
