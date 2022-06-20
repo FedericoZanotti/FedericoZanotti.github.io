@@ -40,7 +40,7 @@ We tested the performance of these methods on the task of adversarial attack on 
 such that the Deep Neural Network makes an incorrect classification. Following [Can Stochastic Zeroth-Order Frank-Wolfe Method Converge Faster for Non-Convex Problems?](http://proceedings.mlr.press/v119/gao20b/gao20b.pdf)
 we tested the algorithms with this loss function:
 
-<img width=600 src="https://github.com/FedericoZanotti/FedericoZanotti.github.io/blob/master/_posts/loss.PNG" />
+<img src="https://github.com/FedericoZanotti/FedericoZanotti.github.io/blob/master/_posts/loss.PNG" />
 
 
 
