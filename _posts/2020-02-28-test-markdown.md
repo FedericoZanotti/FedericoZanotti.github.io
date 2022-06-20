@@ -24,6 +24,8 @@ We made also a web-app that caracterizes a possible future implementation, in wh
 
 Here I provide a **Little Demo**:  [![CBSD-project](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/federicozanotti/cbsd-project/main/app.py) and a <a id="raw-url" href="https://raw.githubusercontent.com/FedericoZanotti/FedericoZanotti.github.io/master/_posts/test.csv">Test File</a>
 
+<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
+
 
 \begin{array}{ |p{3cm}||p{3cm}|p{3cm}|p{3cm}|  }
 \hline
