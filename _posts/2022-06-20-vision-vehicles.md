@@ -42,29 +42,24 @@ In the left there is what background subtraction perceive, while on the right th
 
 #### NightTime
 
+
 :-------------------------:|:-------------------------:
 <img width =400 src="/assets/img/opencv_night_bs.gif" /> | <img width=400 src="/assets/img/opencv_night.gif" />
 
 ## Yolov3
 
-#### DayTime
                               
+:-------------------------:|:-------------------------:
+<img width =400 src="/assets/img/yolov3_day.gif" /> | <img width =400 src="/assets/img/yolove_night.gif" />
 
-<img width =400 src="/assets/img/yolov3_day.gif" />
 
-#### NightTime
 
-<img width =400 src="/assets/img/yolove_night.gif" />
 
 ## Yolov4
 
-#### DayTime                           
+:-------------------------:|:-------------------------:
+<img width =400 src="/assets/img/yolov4_day.gif" /> | <img width =400 src="/assets/img/yolov4_night.gif" /> 
 
-<img width =400 src="/assets/img/yolov4_day.gif" /> 
-
-#### NightTime
-
-<img width =400 src="/assets/img/yolov4_night.gif" /> 
 
 ## OCR
 A challenging task we faced was license plate recognition, and our goal was to detect the license plate in a vehicle and read it in real time.
