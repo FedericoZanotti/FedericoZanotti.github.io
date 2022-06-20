@@ -26,8 +26,9 @@ Here I provide a **Little Demo**:  [![CBSD-project](https://static.streamlit.io/
 
 Here i reported the final results (discussed deeply in the colab notebook).
 
-**Classification**
+**Classification** 
 | Method  | Train Score (%)| Test Score (%)|
+
 | ------------- | ------------- |------------|
 | Logistic Regression  |86   | 89  |
 | Decision Tree  | 84   | 81  |
@@ -37,6 +38,7 @@ Here i reported the final results (discussed deeply in the colab notebook).
 
 **Reconstruction**
 | Method  | Reconstruction Accuracy (%) | Mean Squared Error (MSE) |
+
 | ------------- | ------------- |------------|
 | DAE | 34 | 1.0966 |
 | DBN | 34.7 | 1.0731 |
