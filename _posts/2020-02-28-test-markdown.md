@@ -25,21 +25,17 @@ We made also a web-app that caracterizes a possible future implementation, in wh
 Here I provide a **Little Demo**:  [![CBSD-project](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/federicozanotti/cbsd-project/main/app.py) and a <a id="raw-url" href="https://raw.githubusercontent.com/FedericoZanotti/FedericoZanotti.github.io/master/_posts/test.csv">Test File</a>
 
 
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
+\begin{array}{ |p{3cm}||p{3cm}|p{3cm}|p{3cm}|  }
+\hline
+\hline
+Model& Accuracy (\%) &MSE\\
+\hline
+Average Remover &35.6&1.1812\\
+DAE&   34  & 1.0966 \\
+ DBN &34.7 & 1.0731\\
+ RNN    &34.7 & 1.0832\\
+ LSTM&   34.2  & 1.0960\\
+ BruteForce& 45  & 1.0087\\
+ One Class SVM_{withBruteForce}& 59.6 & 0.75  \\
+ \hline
+\end{array}
