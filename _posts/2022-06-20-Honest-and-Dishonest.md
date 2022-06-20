@@ -30,7 +30,7 @@ Here i reported the final results (discussed deeply in the colab notebook).
 ### **Classification** 
 
 
-<img width=600 src="https://github.com/FedericoZanotti/FedericoZanotti.github.io/blob/master/_posts/class.PNG" />
+<img src="https://github.com/FedericoZanotti/FedericoZanotti.github.io/blob/master/_posts/class.PNG" />
 
 
 ### **Reconstruction**
