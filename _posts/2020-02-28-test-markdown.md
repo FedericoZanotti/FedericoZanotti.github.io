@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Machine Learning for detecting Liers
+title: BEFORE
 subtitle: ML tecnicques and methods to discover lier in a psycological questionnaire and reconstructing their honest response
 gh-repo: FedericoZanotti/CBSD-project
 gh-badge: [star, fork, follow]
