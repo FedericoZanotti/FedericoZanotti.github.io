@@ -26,11 +26,13 @@ Here I provide a **Little Demo**:  [![CBSD-project](https://static.streamlit.io/
 
 Here i reported the final results (discussed deeply in the colab notebook).
 
-**Classification** 
-![alt text](https://github.com/FedericoZanotti/FedericoZanotti.github.io/blob/master/_posts/class.PNG?raw=true)
+### **Classification** 
 
 
-**Reconstruction**
+<img width=600 src="https://github.com/FedericoZanotti/FedericoZanotti.github.io/blob/master/_posts/class.PNG" /></img>
 
-![alt text](https://github.com/FedericoZanotti/FedericoZanotti.github.io/blob/master/_posts/recon.PNG?raw=true)
+
+### **Reconstruction**
+
+<img width=600 src="https://github.com/FedericoZanotti/FedericoZanotti.github.io/blob/master/_posts/recon.PNG" /></img>
 
