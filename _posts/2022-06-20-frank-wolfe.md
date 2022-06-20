@@ -2,8 +2,7 @@
 layout: post
 title: Zeroth Order Methods for Adversarial Machine Learning
 subtitle: Implementation of FRank Wolfe variants for adversarial machine learning on MNIST dataset  
-cover-img: /assets/img/opt.png
-thumbnail-img: /assets/img/opt.png
+
 gh-repo: FedericoZanotti/Zeroth-Order-Methods-for-Adversarial-Machine-Learning
 gh-badge: [star, fork, follow]
 tags: [FW]
@@ -40,7 +39,7 @@ We tested the performance of these methods on the task of adversarial attack on 
 such that the Deep Neural Network makes an incorrect classification. Following [Can Stochastic Zeroth-Order Frank-Wolfe Method Converge Faster for Non-Convex Problems?](http://proceedings.mlr.press/v119/gao20b/gao20b.pdf)
 we tested the algorithms with this loss function:
 
-<img src="https://github.com/FedericoZanotti/FedericoZanotti.github.io/blob/master/_posts/loss.PNG" />
+<img src="/assets/img/loss.PNG" />
 
 
 
