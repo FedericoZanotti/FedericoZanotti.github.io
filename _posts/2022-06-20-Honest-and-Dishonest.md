@@ -39,12 +39,12 @@ Here i reported the final results (discussed deeply in the colab notebook).
 
 **Reconstruction**
 
-| Method  | Reconstruction Accuracy (%) | Mean Squared Error (MSE) |
+| Method        | Reconstruction Accuracy (%) | Mean Squared Error (MSE) |
 
-| ------------- | ------------- |------------|
-| DAE | 34 | 1.0966 |
-| DBN | 34.7 | 1.0731 |
-| RNN  |  34.7 | 1.0832 |
-| LSTM | 34.2  | 1.0960 |
-| BruteForce | 45 | 1.0087 |
-| One Class SVM (withBruteForce) | 59.6 | 0.75 |
+| ------------- | --------------------------- |------------|
+| DAE           | 34                          | 1.0966 |
+| DBN           | 34.7                        | 1.0731 |
+| RNN           |  34.7                       | 1.0832 |
+| LSTM          | 34.2                        | 1.0960 |
+| BruteForce    | 45                          | 1.0087 |
+| One Class SVM (withBruteForce) | 59.6       | 0.75 |
