@@ -24,10 +24,7 @@ We made also a web-app that caracterizes a possible future implementation, in wh
 
 Here I provide a **Little Demo**:  [![CBSD-project](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/federicozanotti/cbsd-project/main/app.py) and a <a id="raw-url" href="https://raw.githubusercontent.com/FedericoZanotti/FedericoZanotti.github.io/master/_posts/test.csv">Test File</a>
 
-<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
-
-
-\begin{array}{ |p{3cm}||p{3cm}|p{3cm}|p{3cm}|  }
+<img src="https://render.githubusercontent.com/render/math?math=\begin{array}{ |p{3cm}||p{3cm}|p{3cm}|p{3cm}|  }
 \hline
 \hline
 Model& Accuracy (\%) &MSE\\
@@ -40,4 +37,7 @@ DAE&   34  & 1.0966 \\
  BruteForce& 45  & 1.0087\\
  One Class SVM_{withBruteForce}& 59.6 & 0.75  \\
  \hline
-\end{array}
+\end{array}">
+
+
+
