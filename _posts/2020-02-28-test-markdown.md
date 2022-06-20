@@ -8,7 +8,7 @@ tags: [test]
 comments: true
 ---
 
-#  Can we fool liers? [<img src="logo_github.png" width=50/>](https://github.com/FedericoZanotti/CBSD-project.git)
+#  Can we fool liers? [<img src="[logo_github.png](https://www.google.com/search?q=github+logo&rlz=1C1GCEA_enSM987SM987&sxsrf=ALiCzsYf7vkaq5szsCtqBsUOiIF6XHq56g:1655721099441&tbm=isch&source=iu&ictx=1&vet=1&fir=Kq4l3mSBVj08zM%252CH8p6HHzcTglWAM%252C_%253BLp2OqU7fPdjSMM%252CkHlC0fHCgyWhTM%252C_%253B8AE_J5pAtu3iiM%252CTXCcjLeV5gKBaM%252C_%253BF4N7nNsmAvS0zM%252CTXCcjLeV5gKBaM%252C_%253BG9U2Dai9GVGdNM%252CJY-eVDG-JQ2uaM%252C_%253B_OjrNiGLxhfxQM%252C6c2yz7gdNvDU7M%252C_%253BfLKD7QptF_vjyM%252CH8p6HHzcTglWAM%252C_%253BkA2-FqAeptEp1M%252CaZMTzBMUx1GvGM%252C_%253BdO1l3HgJbssG8M%252CgwkaSaXL7ezQZM%252C_%253BIeefiN93NoNWmM%252CzAWdjHONKkQJQM%252C_%253BB9I6N7fsJkqtQM%252CVduUm5bUIj50qM%252C_%253BJdCuiEb92j8WmM%252ChOKru3WHzG-XsM%252C_%253B48_LdUHs4o-K2M%252Cz2e7RYj-WGKlvM%252C_%253BYj_--20JGCXo6M%252CmAJcICWgW1273M%252C_&usg=AI4_-kQcI53jk8eIc4xiPab9cSAHoVmoTQ&sa=X&ved=2ahUKEwiQs-rf6bv4AhWPzaQKHUD4DQsQ9QF6BAgqEAE&biw=1920&bih=918#imgrc=8AE_J5pAtu3iiM)" width=50/>](https://github.com/FedericoZanotti/CBSD-project.git)
 
 
 **Source Code**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FedericoZanotti/FEdericoZanotti.github.io/blob/master/project_filesCBSD_Project_IADQ.ipynb)
