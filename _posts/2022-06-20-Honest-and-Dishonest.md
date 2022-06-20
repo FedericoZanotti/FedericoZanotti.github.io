@@ -39,8 +39,7 @@ Here i reported the final results (discussed deeply in the colab notebook).
 
 **Reconstruction**
 
-[![](recon.png)]
-
+<img src="recon.png"></img>
 
 | Method        | Reconstruction Accuracy (%) | Mean Squared Error (MSE) |
 
