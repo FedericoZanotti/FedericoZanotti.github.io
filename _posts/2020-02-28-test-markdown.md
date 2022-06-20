@@ -9,7 +9,8 @@ comments: true
 ---
 
 #  Can we fool liers? <a href="https://github.com/FedericoZanotti/CBSD-project.git">
-         <img src="https://www.qries.com/images/banner_logo.png" width=150" height="70"> </a>
+         <img alt="Qries" src="https://www.qries.com/images/banner_logo.png"
+              width=150" height="70"> </a></img>
 
 
 **Source Code**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FedericoZanotti/FEdericoZanotti.github.io/blob/master/project_filesCBSD_Project_IADQ.ipynb)
