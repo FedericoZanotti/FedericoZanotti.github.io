@@ -34,7 +34,7 @@ can not see any vehicles because the only movement that the background subtracti
 
 In the left there is what background subtraction perceive, while on the right there is the final result
 
-Background Subtraction                                  | Final Result
+                                  | 
 
 :-------------------------:|:-------------------------:
 <img width =400 src="/assets/img/opencv_day_bs.gif" /> | <img align="right" width=400 src="/assets/img/opencv_day.gif" />
@@ -49,6 +49,7 @@ Background Subtraction                                                 | Final R
 <img width =400 align="left" src="/assets/img/opencv_night_bs.gif" /> | <img width=400 align="right" src="/assets/img/opencv_night.gif" />
 
 ## Yolov3
+
 
 
 #### DayTime
