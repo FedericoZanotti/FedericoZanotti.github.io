@@ -27,13 +27,20 @@ Here I provide a **Little Demo**:  [![CBSD-project](https://static.streamlit.io/
 Here i reported the final results (discussed deeplt in th colab notebook).
 
 **Classification**
-| Methofd  | Train Score | Test Score |
+| Method  | Train Score (%)| Test Score (%)|
 | ------------- | ------------- |------------|
-| Logistic Regression  |86 %  | 89 % |
-| Decision Tree  | 84 %  | 81 % |
-| Random Forest  | 98 %  | 87 % |
-| KNN | 89 %  | 87 % |
-| AdaBoost | 93 %  | 90 % |
-| Content Cell  | Content Cell  |
+| Logistic Regression  |86   | 89  |
+| Decision Tree  | 84   | 81  |
+| Random Forest  | 98 | 87  |
+| KNN | 89  | 87  |
+| AdaBoost | 93  | 90  |
 
-
+**Reconstruction**
+| Method  | Reconstruction Accuracy (%) | Mean Squared Error (MSE) |
+| ------------- | ------------- |------------|
+| DAE | 34 | 1.0966 |
+| DBN | 34.7 | 1.0731 |
+| RNN  |  34.7 | 1.0832 |
+| LSTM | 34.2  | 1.0960 |
+| BruteForce | 45 | 1.0087 |
+| One Class SVM_{withBruteForce} | 59.6 | 0.75 |
