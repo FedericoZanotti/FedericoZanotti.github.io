@@ -39,6 +39,9 @@ Here i reported the final results (discussed deeply in the colab notebook).
 
 **Reconstruction**
 
+[![](recon.png)]
+
+
 | Method        | Reconstruction Accuracy (%) | Mean Squared Error (MSE) |
 
 | ------------- | --------------------------- |------------|
