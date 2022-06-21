@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Relation on the most important parameter that can cause a heart failure
-subtitle: Heart failure is an unexpected event that could be mortal, so it is very imporant to understand what are the parameters that influence it. In this report I have analyzed some possible vital signs to monitor in order to predict an heart failure
+title: Can we Predict an Heart Failure?
+subtitle: Heart failure is an unexpected event that could be mortal, so it is very important to understand what are the parameters that influence it. In this report I have analyzed some possible vital signs to monitor in order to predict an heart failure
 thumbnail-img: /assets/img/heart.jpg
 gh-repo: FedericoZanotti/Can-we-predict-Heart-Failure
 gh-badge: [star, fork, follow]
-tags: [Heart Failure]
+tags: [Heart Failure, Statistical Learning, R]
 comments: true
 ---
 
-# Can we predict Heart Failure? [<img src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Logo.png" width=50/>](https://github.com/FedericoZanotti/Can-we-predict-Heart-Failure.git)
+# Heart Failure [<img src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Logo.png" width=50/>](https://github.com/FedericoZanotti/Can-we-predict-Heart-Failure.git)
 
 The heart failure is an unexpected event, that can occur at any age, but is most common in older people. 
 Heart failure means that the heart is unable to pump blood around the body properly. It usually happens because the heart has become too weak or stiff.
