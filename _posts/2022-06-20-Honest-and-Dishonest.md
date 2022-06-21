@@ -12,7 +12,7 @@ comments: true
 #  Can we fool liers? [<img src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Logo.png" width=50/>](https://github.com/FedericoZanotti/CBSD-project.git)
 
 
-**Source Code**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FedericoZanotti/FEdericoZanotti.github.io/blob/master/project_filesCBSD_Project_IADQ.ipynb)
+**Source Code**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FedericoZanotti/FEdericoZanotti.github.io/blob/master/project_files/CBSD_Project_IADQ.ipynb)
 
 
 This was a project for the course Cognitive Behavioral and Social Data. Some databases were given to the students, composed by honest and dishonest response of the IADQ questionnaire, a psyccological test for the Adjustment disorder. The participants were asked to respond first in a dishonest way, exagerrating the adjusment disorder syntoms, with the purpose of deceive the test and gain some economic benefits from the disease. 
