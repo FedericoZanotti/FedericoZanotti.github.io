@@ -5,7 +5,7 @@ subtitle: ML tecnicques and methods to discover lier in a psycological questionn
 thumbnail-img: /assets/img/psico.jpg
 gh-repo: FedericoZanotti/CBSD-project
 gh-badge: [star, fork, follow]
-tags: [CBSD]
+tags: [Cognitive, Psycological Test, Machine Learning]
 comments: true
 ---
 
