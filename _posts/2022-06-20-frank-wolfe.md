@@ -5,7 +5,7 @@ subtitle: Implementation of FRank Wolfe variants for adversarial machine learnin
 thumbnail-img: /assets/img/opt.png
 gh-repo: FedericoZanotti/Zeroth-Order-Methods-for-Adversarial-Machine-Learning
 gh-badge: [star, fork, follow]
-tags: [FW]
+tags: [Frank-Wolfe, Optimization, Zeroth-order]
 comments: true
 ---
 
