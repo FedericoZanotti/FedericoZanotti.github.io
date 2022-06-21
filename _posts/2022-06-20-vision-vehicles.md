@@ -6,7 +6,7 @@ thumbnail-img: /assets/img/vision_thumb.gif
 
 gh-repo: FedericoZanotti/Vision-project
 gh-badge: [star, fork, follow]
-tags: [Vision]
+tags: [Vision, Classification, Detection, Tracking, Yolo, OpenCV, Python]
 comments: true
 ---
 
