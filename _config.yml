@@ -6,10 +6,9 @@
 # --- Required options --- #
 
 # Name of website
-title: My Projects
-
+title: Projects
 # Your name to show in the footer
-author: Some Person
+author: Federico Zanotti
 
 # --- List of links in the navigation bar --- #
 
@@ -35,21 +34,21 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "federico.zanott@studenti.unipd.it"
-  facebook: FedericoZanotti
+  email: "federico.zanotti@studenti.unipd.it"
+  facebook: fzanotti2
   github: FedericoZanotti
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: federicozanotti
+  linkedin: federicozanotti
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  spotify: yourname
-#  telephone: +14159998888
+  telephone: +393661167291
 #  steam: deanat78
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+# rss-description: This website is a virtual proof that I'm awesome
 
 # --- General options --- #
 
@@ -62,7 +61,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "MyProjects.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
