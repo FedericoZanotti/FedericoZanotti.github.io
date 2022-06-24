@@ -1,11 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Little Description of myself
 ---
 
-My name is Asdrubale
-
+Welcome to this site, I'm Federico Zanotti and I was born in San Marino 
 ### My story
 
 Like Don Chischiotte
