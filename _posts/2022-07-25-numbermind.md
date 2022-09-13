@@ -2,7 +2,7 @@
 layout: post
 title: Numbermind with SAT Encoding
 subtitle: Game implementation using logical library Z3 of Python
-thumbnail-img: /assets/img/dataset.png
+thumbnail-img: /assets/img/numbermind.gif
 tags: [Python, Logic, SAT Encoding]
 comments: true
 ---
