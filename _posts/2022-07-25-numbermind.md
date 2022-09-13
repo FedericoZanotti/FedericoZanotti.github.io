@@ -18,7 +18,7 @@ In my case I had to implement two constraints:
 2. Given the feedback of matches, only the number of guess can be true 
 
 The implementation is done in python, using the [Z3 Library](https://ericpony.github.io/z3py-tutorial/guide-examples.htm): a high performance theorem prover developed at Microsoft Research used in many applications such as  software/hardware verification and testing, constraint solving, analysis of hybrid systems, security, biology (in silico analysis), and geometrical problems.
-The interesting part in the implementation is that is very flexible in changing the length of the sequence to guess and the number of digits in the sequence. If you are curious just try changing the parameter *NUM_POSITIONS* (length of the sequence) and *NUM_SYMBOLS"* (number of digits).
+The interesting part in the implementation is that is very flexible in changing the length of the sequence to guess and the number of digits in the sequence. If you are curious just try changing the parameter *NUM_POSITIONS* (length of the sequence) and *NUM_SYMBOLS* (number of digits).
 
 
 
