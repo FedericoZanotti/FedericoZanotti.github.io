@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Zeroth Order Methods for Adversarial Machine Learning
-subtitle: Implementation of FRank Wolfe variants for adversarial machine learning on MNIST dataset  
+subtitle: Implementation of Frank Wolfe variants for adversarial machine learning on MNIST dataset  
 thumbnail-img: /assets/img/opt.png
 gh-repo: FedericoZanotti/Zeroth-Order-Methods-for-Adversarial-Machine-Learning
 gh-badge: [star, fork, follow]
