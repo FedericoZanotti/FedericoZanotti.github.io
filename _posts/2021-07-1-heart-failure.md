@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Can we Predict an Heart Failure?
-subtitle: Heart failure is an unexpected event that could be mortal, so it is very important to understand what are the parameters that influence it. In this report I have analyzed some possible vital signs to monitor in order to predict an heart failure
+subtitle: Heart failure is an unexpected event that could be mortal, so it is very important to understand what are the parameters that influence it. In this work I have analyzed some possible vital signs to monitor in order to predict an heart failure
 thumbnail-img: /assets/img/heart.jpg
 gh-repo: FedericoZanotti/Can-we-predict-Heart-Failure
 gh-badge: [star, fork, follow]
