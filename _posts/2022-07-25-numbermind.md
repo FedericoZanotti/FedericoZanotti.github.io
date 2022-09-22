@@ -11,8 +11,8 @@ comments: true
 
 **Source Code**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lQVPdr7lQY1rew3nhn6ltAq6WV-nrwVF#scrollTo=X4l3oShq3fL0)
 
-Numbermind is a classic game in which two players challenge themselves and defend their intelligence. A player is the “Guardian” of a secret code composed by 5 positions and 9 possible digits to insert in every positions. The other player has to guess the code for a limited number of trials using the feedback the other player gives him: every round the Guardian tell him how many digits in correct position the player guessed. 
-The game implementation is done using SAT encoding, the process of transforming a problem into a Satisfiability problem, using basic knowledge of propositional logic.
+Numbermind is a classic game in which two players challenge themselves and defend their intelligence. A player is the **Guardian** of a **secret code** composed by 5 positions and 9 possible digits to insert in every positions. The other player has to guess the code for a limited number of trials using the feedback the other player gives him: every round the Guardian tell him how many digits in correct position the player guessed. 
+The game implementation is done using **SAT encoding**, the process of transforming a problem into a Satisfiability problem, using basic knowledge of propositional logic.
 In my case I had to implement two constraints:
 1. In every positions of the sequence there is only one digit
 2. Given the feedback of matches, only the number of guess can be true 
